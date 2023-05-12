@@ -4,7 +4,7 @@
 
 # Meta-hallucinator: Towards Few-Shot Cross-Modality Cardiac Image Segmentation
 
-[![MICCAI2022](https://img.shields.io/badge/arXiv-2203.12454-blue)](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_13)
+[![MICCAI2022](https://img.shields.io/badge/arXiv-2305.06978-blue)](https://arxiv.org/abs/2305.06978)
 [![MICCAI2022](https://img.shields.io/badge/Conference-MICCAI2022-green)](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_13)
 
 
